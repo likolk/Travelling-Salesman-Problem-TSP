@@ -4,7 +4,7 @@
 #include <sstream>
 #include <math.h>
 
-// the 10 typescript files
+// the 10 benchmarks
 const char *files[10] = {
     "./data/ch130.tsp",
     "./data/d198.tsp",
